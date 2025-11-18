@@ -5,13 +5,15 @@ A simple API testing framework written in Go.
 ```bash
 git clone https://github.com/gabecatalfo/min.git
 cd min
-./install.sh
+./scripts/install.sh
 ```
 
 ## Uninstall
 ```bash
-./uninstall.sh
+./scripts/uninstall.sh
 ```
 
 ## Commands
-...
+```bash
+min # tests all 
+```
