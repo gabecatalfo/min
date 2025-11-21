@@ -1,5 +1,5 @@
 # min
-I'm building a simple API testing framework in Go. Each test will be a json file with a request and (optionally) an expected result. The resulting response will be displayed, and if there is an expected result then a comparison will be made and displayed.
+I'm building a simple API testing framework in Go. Each test will be a json file with a request and (optionally) an expected result. The resulting response will be displayed, and if there is an expected result then a comparison will be made and displayed. The tests will also be timed.
 
 ## Install
 ```bash
